@@ -7,6 +7,7 @@
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsolage&langs_count=5&show_icons=true" align="center" height="200">
   </a>
 </p>
+![afonsolage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afonsolage&theme=default&hide_border=true)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=afonsolage">
