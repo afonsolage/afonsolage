@@ -1,15 +1,4 @@
-<h1 align="center" alt="Stats">ꜱᴛᴀᴛꜱ</h1>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Afonso Lage's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=afonsolage&show_icons=true" align="center" height="200">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsolage&langs_count=5&show_icons=true" align="center" height="200">
-  </a>
-</p>
+![afonsolage's Stats](https://github-readme-stats.vercel.app/api?username=afonsolage&theme=default&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![afonsolage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsolage&theme=default&show_icons=true&hide_border=true&langs_count=5&size_weight=0.5&count_weight=0.5)
+
 ![afonsolage's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afonsolage&theme=default&hide_border=true)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=afonsolage">
-  </a>
-</p>
